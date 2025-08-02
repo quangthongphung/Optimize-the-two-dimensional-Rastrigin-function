@@ -64,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1754009907302</updated>
       <workItem from="1754009908367" duration="4628000" />
-      <workItem from="1754086102242" duration="8532000" />
+      <workItem from="1754086102242" duration="8631000" />
     </task>
     <servers />
   </component>
@@ -74,6 +74,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Optimize_the_two_dimensional_Rastrigin_function$PSO_code.coverage" NAME="PSO code Coverage Results" MODIFIED="1754095828340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Optimize_the_two_dimensional_Rastrigin_function$DE_code.coverage" NAME="DE code Coverage Results" MODIFIED="1754095871654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Optimize_the_two_dimensional_Rastrigin_function$GA_code.coverage" NAME="GA code Coverage Results" MODIFIED="1754095713174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Optimize_the_two_dimensional_Rastrigin_function$GA_code.coverage" NAME="GA code Coverage Results" MODIFIED="1754095957641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
